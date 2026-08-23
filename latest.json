@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "installer": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.0.0/BeeClinic-Setup-1.0.0.exe",
+  "zip": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.0.0/BeeClinic-Windows-1.0.0.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-clinic-releases/releases/tag/v1.0.0",
+  "publishedAt": "2026-08-23T15:07:56Z"
+}

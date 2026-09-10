@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "installer": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.2.1/BeeClinic-Setup-1.2.1.exe",
-  "zip": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.2.1/BeeClinic-Windows-1.2.1.zip",
-  "installerSha256": "9f40941d046b90c0a41a0f48838c3f6e2d60d4eb29dd60739ac907b256e4483a",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-clinic-releases/releases/tag/v1.2.1",
-  "publishedAt": "2026-09-09T21:48:03Z"
+  "version": "1.3.0",
+  "installer": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.3.0/BeeClinic-Setup-1.3.0.exe",
+  "zip": "https://github.com/mustafaeminof/bee-clinic-releases/releases/download/v1.3.0/BeeClinic-Windows-1.3.0.zip",
+  "installerSha256": "6f27abe96756dc84b8f4b149426f358029c215ce35f57bf1cb3d9bc7157f9f1a",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-clinic-releases/releases/tag/v1.3.0",
+  "publishedAt": "2026-09-10T15:06:06Z"
 }
